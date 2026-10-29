@@ -1,6 +1,6 @@
 from pathlib import Path
 
-content = r"""# 🎧 Spotify Backend
+content = 🎧 Spotify Backend
 
 A learning-focused backend project inspired by Spotify, built to understand how server-side applications work behind the scenes. The project explores how APIs, authentication, database operations, and music/album management fit together in a Node.js backend.
 
